@@ -45,5 +45,5 @@ print(results)
 #storage.get("10.0.0.5", 0), Argument 1 (key) - this is waht we look for in dictionary
 #Argument 2 (value) - this is what you expect to be returned if code won't find key, in our case its 0
 
-#if there is no locker like this python returns 0 and do math (0) + 1 = 1, creates
+#if there is no "locker" like this python returns 0 and do math (0) + 1 = 1, creates
 #the locker
